@@ -1,0 +1,12 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "3",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "jquery": "^3.6.0"
+  }
+}
