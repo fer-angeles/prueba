@@ -1,4 +1,4 @@
-# prueba
+# Test
 En este repositorio es una prueba para Consultoria
 
 # Comandos
